@@ -1,0 +1,28 @@
+Task:1
+--------
+Verilmiş mətində olan sozlerde heriflerin sayi 8den
+cox olan sozlerin background-color yellow olsun.
+
+Task:2
+--------
+Verilmish mətindən sora mətinin source-na geden link əlavə edin,yeni sehifede acsin.
+(Html codu yazmadan :D )
+Example:(https://www.lipsum.com/)
+
+Task:3
+--------
+iki eded input ve 5 button verilib.Buttona basdiqda inputdaki
+ededleri toplasin,vursun,bolsun cixsin,mod cixartsin.
+
+Task:4
+--------
+div ile 100x100 olcusunde box duzeldin. 2 input var, birinci inputa 
+user "red","green","blue" .vs kimi color  values-ler yazacag.
+Buttona click  etdikde div-in rengi inputadaki yaziya beraber olacag
+ikinci inputda ise reqem daxil edecek bu ise box-un width-ini teyin edecek.
+
+
+Task:5
+-------
+Sheherlerden ibaret bir eded listim var 5-6 sheher olmalidi minimum,click edende coloru deyishsin 
+ve check iconu elave olunsun.
